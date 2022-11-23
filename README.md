@@ -1,2 +1,2 @@
 My first readme
-Somthing to post
+Something to post
